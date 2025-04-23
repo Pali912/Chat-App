@@ -83,19 +83,3 @@ You need to run both the backend server and the frontend application separately.
 3.  You can type messages in the input field at the bottom and press the "Send" button or the Enter key to send them.
 4.  Messages sent by you and other connected users will appear in the chat window in real time, along with the sender's name and a timestamp.
 5.  A list of currently online users is displayed at the top of the chat screen.
-
-## Important Notes
-
-* This is a basic implementation for demonstration purposes. It lacks features like user registration, persistent data storage, and robust security.
-* The "login" is a simple check for non-empty username and password fields.
-* For testing on a physical mobile device, ensure that your device and your computer running the backend server are on the same Wi-Fi network. The frontend will attempt to connect to the IP address `http://10.1.34.60:3000`. If this IP address is not your computer's local IP address, you might need to update it in `frontend/components/ChatScreen.js`.
-
-## Further Development
-
-This project can be extended with features such as:
-
-* User registration and authentication.
-* Private messaging.
-* Message history.
-* Styling enhancements.
-* Error handling and improved user experience.
