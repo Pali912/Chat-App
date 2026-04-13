@@ -2,7 +2,7 @@
 
 This is a simple real-time chat application built using React Native for the frontend and Node.js with Socket.IO for the backend. It features basic user login and the ability to send and receive messages in real time.
 
-# Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
 
