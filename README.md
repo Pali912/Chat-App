@@ -16,7 +16,7 @@ Before you begin, ensure you have the following installed on your system:
     ```
 * **Expo Go app** on your mobile device (for testing on a physical device) or a mobile simulator/emulator (iOS or Android).
 
-## Installation
+# Installation
 
 1.  **Clone the repository** (if you haven't already):
     ```bash
